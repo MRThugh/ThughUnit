@@ -69,3 +69,9 @@ No part of this project may be copied, modified, distributed, or used commercial
 
 Made with ❤️ and clean code  
 by [MRThugh](https://github.com/MRThugh)
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/MRThugh/MRThugh/main/badge.svg"
+    width="50%" 
+  />
+</p>
